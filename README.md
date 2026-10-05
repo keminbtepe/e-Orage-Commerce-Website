@@ -87,7 +87,7 @@ The project uses a relational database model designed with normalization rules. 
 
 **Kürşat Emin Beşiktepe**
 * **Portfolio:** [kursatbesiktepe.com.tr](https://kursatbesiktepe.com.tr)
-* **LinkedIn:** [linkedin.com/in/keminbesiktepe](https://www.linkedin.com/in/keminbesiktepe)
+
 
 </div>
 
