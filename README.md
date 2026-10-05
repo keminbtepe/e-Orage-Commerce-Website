@@ -83,10 +83,6 @@ The project uses a relational database model designed with normalization rules. 
 
 ---
 
-### 👤 Author
-
-**Kürşat Emin Beşiktepe**
-* **Portfolio:** [kursatbesiktepe.com.tr](https://kursatbesiktepe.com.tr)
 
 
 </div>
@@ -172,10 +168,7 @@ Proje, normalizasyon kurallarına uygun ilişkisel bir veritabanı modeli üzeri
 
 ---
 
-### 👤 Yazar
 
-**Kürşat Emin Beşiktepe**
-* **Websitesi:** [kursatbesiktepe.com.tr](https://kursatbesiktepe.com.tr)
-* **LinkedIn:** [linkedin.com/in/keminbesiktepe](https://www.linkedin.com/in/keminbesiktepe)
+
 
 </div>
